@@ -32,7 +32,7 @@ span {
     background: #e50913;
     left: 46px;
     transform: skew(50deg);
-    -webkit-transform: skew(20deg);
+    -webkit-transform: skew(30deg);
     -moz-transform: skew(50deg);
     -ms-transform: skew(50deg);
     -o-transform: skew(50deg);
