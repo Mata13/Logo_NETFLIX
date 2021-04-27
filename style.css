@@ -36,4 +36,5 @@ span {
     -moz-transform: skew(50deg);
     -ms-transform: skew(50deg);
     -o-transform: skew(50deg);
+    box-shadow: 0 0 10px -4px #222;
 }
